@@ -5,7 +5,7 @@ from mysql.connector import Error
 connection = mysql.connector.connect(
     host='academicmysql.mysql.database.azure.com',
     user='', #put_your_net_ID___vxn1475
-    password='', #put_your_password___vnvarad30
+    password='', #put_your_password___
     database='', #put_your_net_ID___vxn1475
     port=3306
 )
